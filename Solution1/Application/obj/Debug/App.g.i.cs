@@ -9,7 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using Application;
+using application;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -32,7 +32,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
-namespace Application {
+namespace application {
     
     
     /// <summary>
@@ -61,7 +61,7 @@ namespace Application {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
-            Application.App app = new Application.App();
+            application.App app = new application.App();
             app.InitializeComponent();
             app.Run();
         }
