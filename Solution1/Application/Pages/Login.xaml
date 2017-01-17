@@ -1,0 +1,22 @@
+﻿<Page x:Class="Application.Pages.Login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Application.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="350"
+      Title="Login">
+
+    <Grid Background="White">
+        <StackPanel VerticalAlignment="Center" Margin="15">
+            <Label Foreground="#3498db" Content="Twitter App" HorizontalAlignment="Center" Margin="0, 0, 0, 25" FontSize="36"/>
+            <Label Foreground="Gray" Content="Username"/>
+            <TextBox Padding="8" Margin="0, 0, 0, 10"/>
+            <Label Foreground="Gray" Content="Password"/>
+            <PasswordBox Padding="8" Margin="0, 0, 0, 10"/>
+            <Button Content="Login" Padding="25, 8" HorizontalAlignment="Left" Margin="0, 0, 0, 10" Background="#3498db" Foreground="White" BorderThickness="0"/>
+            <Button Content="Or Create An Account" Padding="25, 8" HorizontalAlignment="Left" Background="#2ecc71" Foreground="White" BorderThickness="0"/>
+        </StackPanel>
+    </Grid>
+</Page>
