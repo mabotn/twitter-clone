@@ -1,0 +1,16 @@
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\bin\Debug\Application.exe.config
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\bin\Debug\Application.exe
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\bin\Debug\Application.pdb
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\MainWindow.g.cs
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Pages\Login.g.cs
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\App.g.cs
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application_MarkupCompile.cache
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application_MarkupCompile.lref
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\MainWindow.baml
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Pages\Login.baml
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.g.resources
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.Properties.Resources.resources
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.exe
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.pdb

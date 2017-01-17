@@ -1,0 +1,26 @@
+﻿<Page x:Class="Application.Pages.NewTweet"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Application.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="350"
+      Title="NewTweet">
+
+    <Grid Background="White">
+        <StackPanel Margin="15">
+            <Label Content="New Tweet" Foreground="Gray" />
+            <TextBox Padding="8" Height="120" Margin="0, 0, 0, 10"/>
+            <Grid>
+                <Button BorderThickness="0" HorizontalAlignment="Left"
+                    Content="Post" Background="#3498db" Foreground="White"
+                    Padding="25, 8"/>
+
+                <Label HorizontalAlignment="Right" VerticalAlignment="Center"
+                       Foreground="Crimson" Content="15" FontSize="16"
+                       Visibility="Hidden"/>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>
