@@ -14,3 +14,6 @@ C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.
 C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.csproj.GenerateResource.Cache
 C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.exe
 C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Application.pdb
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Pages\Home.g.cs
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Pages\NewTweet.g.cs
+C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\obj\Debug\Pages\Profile.g.cs

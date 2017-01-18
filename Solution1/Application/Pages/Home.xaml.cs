@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Application.Pages
+namespace application.Pages
 {
     /// <summary>
     /// Interaction logic for Home.xaml

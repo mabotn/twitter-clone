@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Mabo\Desktop\twitter-clone\Solution1\Application\App.xaml
-2-1092618758
+5-683410480
 
-61400270856
+13117368198
 13738642453
-MainWindow.xaml;Pages\Login.xaml;
+MainWindow.xaml;Pages\Home.xaml;Pages\Login.xaml;Pages\NewTweet.xaml;Pages\Profile.xaml;
 
-False
+True
 
